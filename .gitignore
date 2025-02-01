@@ -1,6 +1,7 @@
 # Ignore all node_modules and dist folders recursively
 node_modules/
 dist/
+.parcel-cache/
 
 # Ignore all environment files
 .env

@@ -1,0 +1,32 @@
+{
+  "name": "02-igniting-our-app",
+  "version": "1.0.0",
+  "description": "code of 02 igniting the app - discuss about how to create react app from sctrach",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manvendra1097-eng/react-code.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Manvendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manvendra1097-eng/react-code/issues"
+  },
+  "homepage": "https://github.com/Manvendra1097-eng/react-code#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browsersList": [
+    "last 3 versions"
+  ]
+}
